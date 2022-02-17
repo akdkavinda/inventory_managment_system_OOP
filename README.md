@@ -1,2 +1,3 @@
-# inventory_managment_system_OOP
-Using OOP concepts
+# Inventory Management System
+
+For OOP Group Project
