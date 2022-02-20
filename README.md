@@ -1,3 +1,3 @@
 # Inventory Management System
 
-For OOP Group Project
+This is the project that For OOP 
